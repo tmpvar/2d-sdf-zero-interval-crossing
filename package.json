@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing/issues"
   },
-  "homepage": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing"
+  "homepage": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
 }
