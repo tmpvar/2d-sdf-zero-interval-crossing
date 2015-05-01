@@ -1,0 +1,32 @@
+{
+  "name": "2d-sdf-zero-interval-crossing",
+  "version": "0.0.0",
+  "description": "find the zero crossing of a sdf on a line segment",
+  "main": "crossing.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing.git"
+  },
+  "keywords": [
+    "sdf",
+    "2d",
+    "distance",
+    "signed",
+    "distance",
+    "field",
+    "line",
+    "segment",
+    "zero",
+    "crossing",
+    "math"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing/issues"
+  },
+  "homepage": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing"
+}
