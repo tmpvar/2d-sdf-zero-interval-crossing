@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/tmpvar/2d-sdf-zero-interval-crossing",
   "devDependencies": {
+    "sdf-polygon-2d": "^2.0.0",
     "tape": "^4.0.0"
   }
 }
